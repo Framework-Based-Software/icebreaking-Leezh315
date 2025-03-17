@@ -4,12 +4,8 @@
 Hi! I'm **LI ZHIHAN**, a student in the **Framework-Based Software Design and Development** course.  
 I expect to gain a solid understanding of framework-based software design and development, learn how to build and configure software within a specific framework, and get hands-on experience with its programming language.  
 
-<div align="left">
-  <img src="image.jpg" alt="My Image" width="100"/>
-</div>
 
 ## GitHub Profile  
 
-You can view my personalized GitHub profile [here](https://github.com/Leezh315/Leezh315/blob/main/README.md).
-
+You can view my personalized GitHub profile [here]
 
